@@ -1,4 +1,4 @@
-**📈 Stock Market Price Prediction with LSTM:**
+# **📈 Stock Market Price Prediction with LSTM**
 
 This project is a stock market price prediction tool using Long Short-Term Memory (LSTM) neural networks built with TensorFlow/Keras. It includes technical indicator calculations, future price forecasting, and confidence analysis—all in a streamlined, Python-based web interface powered by Streamlit.
 
