@@ -6,3 +6,8 @@ seaborn
 flask       
 streamlit    
 joblib       
+
+## This three are main to run a project.
+venv
+stenv
+stockenv
