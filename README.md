@@ -29,13 +29,11 @@ Training: Uses early stopping on validation loss.
 
 Clone the repo:
 
-git clone https://github.com/yourusername/stock-price-predictor.git
+git clone https://github.com/Baldaniya_Pareexit/stock-price-predictor.git
 
 cd stock-price-predictor
 
 Install dependencies:
-
-pip install -r requirements.txt
 
 Note: You may need tensorflow, pandas, scikit-learn, numpy, and streamlit.
 
@@ -44,7 +42,13 @@ Note: You may need tensorflow, pandas, scikit-learn, numpy, and streamlit.
 
 Run the app:
 
-streamlit run app.py
+1. open cmd(powershall) of this folder
+
+now, run this codes
+
+1. stockenv\Scripts\activate
+  
+2. streamlit run app.py
 
 Interface allows you to:
 
