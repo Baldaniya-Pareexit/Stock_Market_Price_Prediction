@@ -1,15 +1,8 @@
 pandas
-
 numpy
-
 scikit-learn
-
 matplotlib
-
 seaborn
-
-flask         # If using a web interface
-
-streamlit     # If using Streamlit
-
-joblib        # For saving/loading models
+flask       
+streamlit    
+joblib       
