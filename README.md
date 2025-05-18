@@ -35,6 +35,8 @@ cd stock-price-predictor
 
 Install dependencies:
 
+pip install -r requirements.txt
+
 Note: You may need tensorflow, pandas, scikit-learn, numpy, and streamlit.
 
 
