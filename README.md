@@ -29,7 +29,7 @@ Training: Uses early stopping on validation loss.
 
 Clone the repo:
 
-git clone https://github.com/Baldaniya_Pareexit/stock-price-predictor.git
+git clone https://github.com/Baldaniya-Pareexit/Stock_Market_Price_Prediction
 
 cd stock-price-predictor
 
